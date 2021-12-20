@@ -15,6 +15,8 @@ import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
+
+//modification_merge_bouchra_feature
 @SpringBootApplication
 public class SpringDataRestApplication {
 
@@ -24,7 +26,6 @@ public class SpringDataRestApplication {
 	ProprietaireRepo proprietaireRepo;
 	
 	public static void main(String[] args) {
-	// modifie_pour_tp_git
 		SpringApplication.run(SpringDataRestApplication.class, args);
 	}
 
