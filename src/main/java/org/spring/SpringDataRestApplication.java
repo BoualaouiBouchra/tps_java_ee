@@ -24,7 +24,7 @@ public class SpringDataRestApplication {
 	ProprietaireRepo proprietaireRepo;
 	
 	public static void main(String[] args) {
-	// modifie_pour_tp_git_
+	// modifie_pour_tp_git
 		SpringApplication.run(SpringDataRestApplication.class, args);
 	}
 
