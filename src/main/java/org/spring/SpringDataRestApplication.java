@@ -22,9 +22,8 @@ public class SpringDataRestApplication {
 	private VoitureRepo repository;
 	@Autowired
 	ProprietaireRepo proprietaireRepo;
-	
+	//modification_merge_bouchra_feature
 	public static void main(String[] args) {
-	// modifie_pour_tp_git_
 		SpringApplication.run(SpringDataRestApplication.class, args);
 	}
 
